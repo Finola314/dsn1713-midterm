@@ -1,8 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Sarala:wght@400;700&display=swap');
 
 /* Set custom variables here */
+:root {
+  --bs-primary: #2e483a;
+  --bs-primary-rgb: 46, 72, 58;
+  --bs-body-bg: #F6F3ED;
+  /* --bs-body-rgb: 246, 243, 237; */
+}
 
+.btn-success {
+    --bs-btn-color: white;
+    --bs-btn-border-color: #2e483a;
+    --bs-btn-hover-bg: #1e2f26;
+    --bs-btn-hover-border-color: #2e483a;
+    --bs-btn-active-bg: #2e483a;
+    --bs-btn-active-border-color: #2e483a;
+    --bs-btn-disabled-color: #2e483a;
+    --bs-btn-bg: #2e483a;
+}
 
+ul li {
+  list-style: none;
+}
 
 
 
