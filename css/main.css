@@ -5,7 +5,8 @@
   --bs-primary: #2e483a;
   --bs-primary-rgb: 46, 72, 58;
   --bs-body-bg: #F6F3ED;
-  /* --bs-body-rgb: 246, 243, 237; */
+  --text-light: #f6f3ed;
+  --text-light-rgb: 246, 243, 237;
 }
 
 .btn-success {
